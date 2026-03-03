@@ -13,7 +13,7 @@ from rank_bm25 import BM25Okapi
 # ============================
 # CONFIGURATION
 # ============================
-PPLE_PDF = "/kaggle/input/datasets/tgupta3/llm-assignment/10-Q4-2024-As-Filed.pdf"
+APPLE_PDF = "/kaggle/input/datasets/tgupta3/llm-assignment/10-Q4-2024-As-Filed.pdf"
 TESLA_PDF = "/kaggle/input/datasets/tgupta3/llm-assignment/tsla-20231231-gen.pdf"
 
 # EMBED_MODEL = "sentence-transformers/all-mpnet-base-v2"
