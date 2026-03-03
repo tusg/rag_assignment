@@ -57,7 +57,7 @@ print(result)
 
 ## 📄 Documentation
 
-- [Design Report](design_report.md): Detailed justification for model choices, chunking strategies, and out-of-scope handling.
+- [Design Report](https://github.com/tusg/rag_assignment/blob/main/design_report.md): Detailed justification for model choices, chunking strategies, and out-of-scope handling.
 - [Kaggle Notebook](https://www.kaggle.com/code/tgupta3/llm-assignment-rag): Link to the runnable Kaggle notebook. Please ensure GPU is enabled for faster retrievals
 
 ## ⚖️ Evaluation
