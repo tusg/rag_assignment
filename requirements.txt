@@ -1,0 +1,15 @@
+# Core RAG & Machine Learning
+torch==2.9.0
+transformers==5.2.0
+sentence-transformers==5.2.0
+faiss-cpu==1.13.2
+rank-bm25==0.2.2
+accelerate==1.12.0
+bitsandbytes==0.49.2
+
+# PDF Processing & Data Handling
+PyMuPDF==1.27.1
+pypdf==6.7.0
+pandas==2.3.3
+numpy==2.0.2
+tabulate==0.9.0
