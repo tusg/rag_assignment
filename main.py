@@ -13,8 +13,8 @@ from rank_bm25 import BM25Okapi
 # ============================
 # CONFIGURATION
 # ============================
-APPLE_PDF = "/kaggle/input/datasets/tgupta3/llm-assignment/10-Q4-2024-As-Filed.pdf"
-TESLA_PDF = "/kaggle/input/datasets/tgupta3/llm-assignment/tsla-20231231-gen.pdf"
+APPLE_PDF = "./10-Q4-2024-As-Filed.pdf"
+TESLA_PDF = "./tsla-20231231-gen.pdf"
 
 # EMBED_MODEL = "sentence-transformers/all-mpnet-base-v2"
 # RERANK_MODEL = "cross-encoder/ms-marco-MiniLM-L-6-v2"
