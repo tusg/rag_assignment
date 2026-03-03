@@ -44,7 +44,7 @@ The system exposes a primary function for querying:
 
 result = pipeline.answer_question("What was Apples total revenue for the fiscal year ended September 28, 2024?")
 print(result)
-# Output: {"answer": "USD 391,036 million", "sources": ["Apple 10-K", "Item 8", "p. 282"]}
+Output: {"answer": "USD 391,036 million", "sources": ["Apple 10-K", "Item 8", "p. 282"]}
 
 ## 🧠 Pipeline Architecture
 
