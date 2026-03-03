@@ -29,7 +29,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) system designed 
       pip install torch transformers sentence-transformers faiss-cpu pymupdf pandas rank_bm25 tabulate
    
 3. **Prepare Documents**:
-   Ensure the following PDFs are located in your `./Downloads/` directory:
+   Ensure the following PDFs are located in your `./` current working directory:
    - `10-Q4-2024-As-Filed.pdf` (Apple)
    - `tsla-20231231-gen.pdf` (Tesla)
 
