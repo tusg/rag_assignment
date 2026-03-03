@@ -58,7 +58,7 @@ print(result)
 ## 📄 Documentation
 
 - [Design Report](https://github.com/tusg/rag_assignment/blob/main/design_report.md): Detailed justification for model choices, chunking strategies, and out-of-scope handling.
-- [Kaggle Notebook](https://www.kaggle.com/code/tgupta3/llm-assignment-rag): Link to the runnable Kaggle notebook. Please ensure GPU is enabled for faster retrievals
+- [Kaggle Notebook](https://www.kaggle.com/code/tgupta3/llm-rag-assignment): Link to the runnable Kaggle notebook. Please ensure GPU is enabled for faster retrievals
 
 ## ⚖️ Evaluation
 The system is tested against 13 specific financial questions, including edge cases (e.g., stock price forecasts and non-existent data) to ensure it refuses out-of-scope queries as required by the assignment constraints.
