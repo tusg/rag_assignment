@@ -22,8 +22,8 @@ This repository contains a Retrieval-Augmented Generation (RAG) system designed 
 ## 📋 Installation
 
 1. **Clone the repository**:
-      git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+      git clone https://github.com/tusg/rag_assignment.git
+   cd rag_assignment
    
 2. **Install dependencies**:
       pip install torch transformers sentence-transformers faiss-cpu pymupdf pandas rank_bm25 tabulate
